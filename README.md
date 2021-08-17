@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @virusz4274
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning linux,python,flutter
+- 🌱 I’m currently learning linux,python,networking
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me t.me/virusz4274
 
